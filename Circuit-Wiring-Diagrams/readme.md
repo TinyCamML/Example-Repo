@@ -1,0 +1,1 @@
+Edit this readme by including images of your wiring diagram and adding any notes that may help a newbie understand the wiring if needed.
